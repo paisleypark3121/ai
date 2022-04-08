@@ -1,0 +1,10 @@
+[{"id": "1", "testo": "ciao a tutti", "clas": "saluti"},
+{"id": "2", "testo": "come state", "clas": "interesse"},
+{"id": "3", "testo": "io sto bene", "clas": "benessere"},
+{"id": "4", "testo": "e sono felice", "clas": "gioia"},
+{"id": "5", "testo": "mi diverto", "clas": "gioia"},
+{"id": "6", "testo": "tantissimo", "clas": "abbondanza"},
+{"id": "7", "testo": "mi sento bene", "clas": "benessere"},
+{"id": "8", "testo": "tanto bene", "clas": "benessere"},
+{"id": "9", "testo": "spero che state bene", "clas": "interesse"},
+{"id": "10", "testo": "sono preoccupato per voi", "clas": "interesse"}]
